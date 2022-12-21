@@ -1,0 +1,8 @@
+*
+!*/
+!.gitignore
+!AUTHORS.md
+!README.md
+!man_1_hsh
+!Makefile
+!*.[ch]
